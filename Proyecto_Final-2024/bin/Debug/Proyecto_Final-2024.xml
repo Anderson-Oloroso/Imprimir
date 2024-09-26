@@ -1,0 +1,211 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Proyecto_Final-2024
+</name>
+</assembly>
+<members>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.CIUDADANODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.DEPARTAMENTODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.EMPLEADODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.MUNICIPIODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.NIVELACADEMICODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.REGIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.TIPOCUENTADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.CIUDADANORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.DEPARTAMENTORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.EMPLEADORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.MUNICIPIORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.NIVELACADEMICORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.REGIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.TIPOCUENTARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.CIUDADANORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.DEPARTAMENTORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.EMPLEADORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.MUNICIPIORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.NIVELACADEMICORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.REGIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSet.TIPOCUENTARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSetTableAdapters.CIUDADANOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSetTableAdapters.DEPARTAMENTOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSetTableAdapters.EMPLEADOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSetTableAdapters.MUNICIPIOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSetTableAdapters.NIVELACADEMICOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSetTableAdapters.REGIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSetTableAdapters.TIPOCUENTATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Proyecto_Final_2024.CIUDADANOSDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Proyecto_Final_2024.CIUDADANOSDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Proyecto_Final_2024.CIUDADANOSDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Proyecto_Final_2024.CIUDADANOSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Proyecto_Final_2024.CIUDADANOSDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Proyecto_Final_2024.CIUDADANOSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Proyecto_Final_2024.CIUDADANOSDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Proyecto_Final_2024.CIUDADANOSDataSetTableAdapters.TableAdapterManager.UpdateAll(Proyecto_Final_2024.CIUDADANOSDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.CIUDADANOSDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Proyecto_Final_2024.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Proyecto_Final_2024.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Proyecto_Final_2024.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>
